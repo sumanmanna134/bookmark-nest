@@ -32,6 +32,17 @@
 $ npm install
 ```
 
+## Start Prisma
+
+```bash
+# development
+$ npm run db:dev:restart
+
+#testing
+$ npm run db:test:restart
+
+```
+
 ## Running the app
 
 ```bash
@@ -58,7 +69,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+<!-- ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
@@ -66,7 +77,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 - Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
 - Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Twitter - [@nestframework](https://twitter.com/nestframework) -->
 
 ## License
 
